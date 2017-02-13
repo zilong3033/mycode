@@ -1,7 +1,7 @@
 #encoding:UTF-8
 import socket,threading,time
 
-HOST,PORT="123.206.28.70",57
+HOST,PORT="127.0.0.1",57
 user="liu"
 ruser="wang"
 
